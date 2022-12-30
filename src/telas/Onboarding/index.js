@@ -10,7 +10,7 @@ import {
 import FundoOndulado from "../../componentes/FundoOndulado";
 import { TelaDeFundo } from "../../componentes/TelaDeFundo";
 import { Formulario } from "../../componentes/Formulario";
-import { Carrossel } from "../../componentes/Carrossel";
+import { Carrossel } from "../../componentes/Carrossel/index.js";
 import itens from "./cards";
 import styles from "./styles";
 

@@ -1,6 +1,8 @@
 # Frontend-Mobile_Animations
 Project developed in React Nactive with focus on animations. We used shimmerEffect, LayoutAnimations, Reanimated and Lottie.
 
+:computer: Developed during the Course of React Native: customize apps with animations - Alura
+
 ## :information_source: About the project - AluraMed
 
 AluraMed is an application made in React Native that simulates a medical consultation application. The main focus was the study of animations to make the application more pleasant and intuitive.

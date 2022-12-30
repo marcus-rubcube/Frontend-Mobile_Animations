@@ -1,5 +1,5 @@
 # Frontend-Mobile_Animations
-Project developed in React Nactive with focus on animations. We used shimmerEffect, LayoutAnimations, Reanimated, Lottie and SplashScreen
+Project developed in React Nactive with focus on animations. We used shimmerEffect, LayoutAnimations, Reanimated and Lottie.
 
 ## :information_source: About the project - AluraMed
 
